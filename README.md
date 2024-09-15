@@ -3,3 +3,4 @@
 
 ### 提示:
 按下<code>Ctrl+C</code>可以停止
+按下 `Ctrl+C` 可以停止
