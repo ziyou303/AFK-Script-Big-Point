@@ -19,10 +19,10 @@
     用于模拟键盘<br>
   # 如何安装
     如果您没有安装，可以运行以下命令进行安装(前提是已经安装好Python)<br>
-    · 安装`pyautogui`<br>
-      `pip install pyautogui`<br>
-      清华源:`pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyautogui`<br>
-    您也可以运行 `依赖库.bat` 脚本来安装依赖库
+    · 安装pyautogui<br>
+      pip install pyautogui<br>
+      清华源:pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyautogui<br>
+    您也可以运行 依赖库.bat 脚本来安装依赖库
 3.运行<br>
   · 运行`code`目录下的`main.py`<br>
   · `Win + R`打开'运行框',输入'cmd'回车,输入`python` + `main.py`文件所在路径<br>
