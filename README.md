@@ -33,7 +33,7 @@
 如果你不放心，可以麻烦一点，安装`python`和依赖包/库，然后运行代码文件
 
 # 如何获取`main.exe`？
-<a href="https://pan.huang1111.cn/s/NkoqGi1" style="color: blue;">点击这里，可以下载</a>
+<a href="https://pan.huang1111.cn/s/5X6QgHl" style="color: blue;">点击这里，可以下载</a>
 
 # 欢迎使用
 有什么问题可以添加作者QQ:3694165816
